@@ -69,7 +69,7 @@ for __1988 Paralympics_Game__
 It was held at __Korea_Republic__ in the city of __Seoul__, __Asia_Continent__ (Summer Games).
 
 Also at __Austria__  in the city of __Innsbruck__,  __Europe_Continent__(Winter Games).
-
+![](https://github.com/Marvelous-Ogungbile/Paralympics-Game-Analysis/blob/main/Geograhical%20Analysis.png)
 
 ## __Trends and Observations__
 •	Country Performance Trends: Some nations such as Australia, United Kingdom, Canada, United State exhibit consistent medal-winning patterns over multiple events, while others show significant improvements.
