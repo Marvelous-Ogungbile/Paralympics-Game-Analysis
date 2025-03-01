@@ -52,7 +52,11 @@ The Paralympics Game Analysis report provides key insights into athlete performa
 ## __Athletes Performance Analysis__
 __This section provides insights into individual athlete performances base on Key metrics which include:__
 
-•	Most Medaled Athletes: Athletes who have won the highest number of medals.
+•	Most Medaled Athletes  
+A German  Athlete __FR G__   with an Overall Medals of 🥇🥈🥉 __85__:  
+*Gold*   `🥇  43`    
+   *Silver* ` 🥈 21`   
+ *Bronze*`  🥉 21`  
 
 •	Top Gold Medalists: Athletes with the most gold medals.
 
