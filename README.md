@@ -10,6 +10,16 @@ Diving into the world of sports, I explored the Paralympic Games, leveraging Pow
 ## __Achievements:__
 
 This project was named Runner-Up in the September 2024 DataDNA Dataset Challenge, organized by Onyx Data Guys. I'm honored to have received global acclaim for my work.
+![](https://github.com/Marvelous-Ogungbile/Paralympics-Game-Analysis/blob/main/image_20240930_0900391412e6b4-cc22-49e6-83ce-4e57953465f8.jpg)
+
+### __Data Source__
+__Dataset:__ Onyx_Data_DataDNA_challenge_September_2024  
+Get the dataset here 👇👇👇👇👇👇  
+https://zoomchartswebstorage.blob.core.windows.net/contest/Onyx_Data_DataDNA_challenge_September_2024.zip
+
+### __DASHBOARD__
+__Interact with the DASHBOARD__ 👇👇👇👇👇👇👇  
+https://app.powerbi.com/view?r=eyJrIjoiZjk2NGQyNjMtODM3OS00ZDQ4LWIzZGItMmI3OTk1NGFkYWEwIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9
 
 
 ## __Report_Overview__
