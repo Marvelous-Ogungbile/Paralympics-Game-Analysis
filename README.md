@@ -10,9 +10,12 @@ Diving into the world of sports, I explored the Paralympic Games, leveraging Pow
 ## __Achievements:__
 
 This project was named Runner-Up in the September 2024 DataDNA Dataset Challenge, organized by Onyx Data Guys. I'm honored to have received global acclaim for my work.
-![](https://github.com/Marvelous-Ogungbile/Paralympics-Game-Analysis/blob/main/image_20240930_0900391412e6b4-cc22-49e6-83ce-4e57953465f8.jpg)
 
-### __Data Source__
+  <img src="https://github.com/Marvelous-Ogungbile/Paralympics-Game-Analysis/blob/main/image_20240930_0900391412e6b4-cc22-49e6-83ce-4e57953465f8.jpg" width="500" height="300">  
+
+
+###  __Data Source__  
+
 __Dataset:__ Onyx_Data_DataDNA_challenge_September_2024  
 Get the dataset here 👇👇👇👇👇👇  
 https://zoomchartswebstorage.blob.core.windows.net/contest/Onyx_Data_DataDNA_challenge_September_2024.zip
@@ -52,13 +55,12 @@ The Paralympics Game Analysis report provides key insights into athlete performa
 ## __Athletes Performance Analysis__
 __This section provides insights into individual athlete performances base on Key metrics which include:__
 
-•	Most Medaled Athletes  
-A German  Athlete __FR G__   with an Overall Medals of 🥇🥈🥉 __85__:  
+•The most medaled Athlete is __FR G__ from Germany, with a total of __85__ medals (🥇🥈🥉)  
 *Gold*   `🥇  43`    
    *Silver* ` 🥈 21`   
  *Bronze*`  🥉 21`  
 
-•He's also the	Topping the  Gold🥇  Medalists: Athletes with the most gold medals.
+•He also Tops the List of Athletes with the most Gold 🥇 Medals.
 
 •	Event-wise Performance: Breakdown of athlete performance across different sporting events.
 
@@ -67,10 +69,12 @@ A German  Athlete __FR G__   with an Overall Medals of 🥇🥈🥉 __85__:
 
 
 ## __Country Rankings__
-__The Ranking Dashboard focuses on country-level analysis, featuring:__
-•	Top Countries by Total Medals: A ranking of countries based on total medals secured.
+__The Ranking Dashboard focuses on Country-Level Analysis, featuring__
+•	Top Countries by Total Medals: A ranking of countries based on total medals secured.  
+In the __Year 2000__ ,
+__Australia__ was ranked __1st__ with *Total Gold Medals of* `🥇 63`    *Silver Medal* ` 🥈 39`   *Bronze*`  🥉 47`  
 
-•	Gold Medal Dominance: Countries ranked by the number of gold medals.
+•Gold Medal Dominance: The __United States__ has been the dominant force in gold medals over the years, with over 600+ Gold Medals.
 
 •	Comparison of Medal Distribution: A breakdown of how medals are distributed across various nations.
 
@@ -92,13 +96,13 @@ Also at __Austria__  in the city of __Innsbruck__,  __Europe_Continent__(Winter 
 ![](https://github.com/Marvelous-Ogungbile/Paralympics-Game-Analysis/blob/main/Geograhical%20Analysis.png)
 
 ## __Trends and Observations__
-•	Country Performance Trends: Some nations such as Australia, United Kingdom, Canada, United State exhibit consistent medal-winning patterns over multiple events, while others show significant improvements.
+•	Country Performance Trends: Some nations such as  __United Kingdom, Canada, United State China,__ exhibit consistent medal-winning patterns over multiple events, while others show significant improvements.
 
-•	Medal Concentration: A few countries dominate the medal count, indicating strong para-sport programs.
+•	Medal Concentration: A few Countries __(United States, United Kingdom, Canada, Germany, France, China) __ dominate the medal count, indicating strong para-sport programs.
 
-•	Athlete Excellence: Certain athletes repeatedly achieve podium finishes, demonstrating high levels of skill and preparation.
+•	Athlete Excellence: Certain athletes such as FIGL_Robert_GOLOMBEK (GERMAN), FREI Heinz(Switzerland), ZORN Trischa (USA) & others repeatedly achieve podium finishes, demonstrating high levels of skill and preparation.
 
-•	Event Popularity: Specific sports contribute significantly to the total medal count, showing areas of high competition and participation.
+•	Event Popularity: Specific sports such as __Athletics, Swimming, Alpine_Skiing⛷ __contribute significantly to the total medal count, showing areas of high competition and participation.
 
 
 ## __Recommendations__
@@ -113,18 +117,4 @@ Also at __Austria__  in the city of __Innsbruck__,  __Europe_Continent__(Winter 
 
 ## __Conclusion__
 The Paralympics Game Analysis report provides a comprehensive overview of the event’s key statistics, highlighting top-performing athletes and nations. By leveraging these insights, sports federations, coaches, and analysts can make data-driven decisions to enhance athlete performance and national rankings in future competitions.
-•	__Total Participating Countries 116 :__  The count of countries that participated in the event.
 
-•	__Top Performing Country Year_by_Year :__  The country that secured the highest number of total medals.
-
-•	__Total Athletes  🏃 9697__: The number of athletes competing in the Paralympic Games.
-
-
-•	__Total Events ⚽️ 🏀 🏈 ⚾️ 🎾 🏐 🏉 🎱 35 :__ The total number of sporting events conducted.
-
-•	__Medal Distribution :__ Breakdown of   *Gold*  🥇  ` 8,820`     *Silver* 🥈`  8,551`   
- *Bronze* 🥉`  8,613`   medals among participating countries.
-
-•	__Medal Trend 1960_2018  :__ Historical trend of medals won over the years.
-
-•	__Top Performing Athlete 🏃 Year_by_Year :__ The athlete with the highest number of medals.
