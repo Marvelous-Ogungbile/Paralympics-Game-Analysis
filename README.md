@@ -58,7 +58,7 @@ A German  Athlete __FR G__   with an Overall Medals of 🥇🥈🥉 __85__:
    *Silver* ` 🥈 21`   
  *Bronze*`  🥉 21`  
 
-•	Top Gold Medalists: Athletes with the most gold medals.
+•He's also the	Topping the  Gold🥇  Medalists: Athletes with the most gold medals.
 
 •	Event-wise Performance: Breakdown of athlete performance across different sporting events.
 
