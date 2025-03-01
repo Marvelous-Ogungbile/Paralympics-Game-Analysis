@@ -11,6 +11,7 @@ Diving into the world of sports, I explored the Paralympic Games, leveraging Pow
 
 This project was named Runner-Up in the September 2024 DataDNA Dataset Challenge, organized by Onyx Data Guys. I'm honored to have received global acclaim for my work.
 
+
 ## __Report_Overview__
 The Paralympics Game Analysis report provides key insights into athlete performance, medal distribution, and country rankings. The dashboard captures important KPIs, trends, and comparisons to evaluate the success of participating nations and individual athletes.
 ## Key Performance Indicators (KPIs)
@@ -29,12 +30,14 @@ The Paralympics Game Analysis report provides key insights into athlete performa
 
 •	__Total Events ⚽️ 🏀 🏈 ⚾️ 🎾 🏐 🏉 🎱 35 :__ The total number of sporting events conducted.
 
-•	__Medal Distribution :__ Breakdown of   *Gold*  🥇  ` 8,820`     *Silver* 🥈`  8,551`   
- *Bronze* 🥉`  8,613`   medals among participating countries.
+•	__Medal Distribution :__ Breakdown of   *Gold*   `  🥇8,820`     *Silver* ` 🥈 8,551`   
+ *Bronze* ` 🥉 8,613`   medals among participating countries.
 
 •	__Medal Trend 1960_2018  :__ Historical trend of medals won over the years.
 
 •	__Top Performing Athlete 🏃 Year_by_Year :__ The athlete with the highest number of medals.
+![](https://github.com/Marvelous-Ogungbile/Paralympics-Game-Analysis/blob/main/Picture1y.png)
+
 
 ## __Athletes Performance Analysis__
 __This section provides insights into individual athlete performances base on Key metrics which include:__
@@ -48,6 +51,7 @@ __This section provides insights into individual athlete performances base on Ke
 •	Country-wise Athlete Contribution: Number of athletes per country and their respective medal tally.
 ![](https://github.com/Marvelous-Ogungbile/Paralympics-Game-Analysis/blob/main/Dashboard%20_Athletes.png)
 
+
 ## __Country Rankings__
 __The Ranking Dashboard focuses on country-level analysis, featuring:__
 •	Top Countries by Total Medals: A ranking of countries based on total medals secured.
@@ -57,6 +61,8 @@ __The Ranking Dashboard focuses on country-level analysis, featuring:__
 •	Comparison of Medal Distribution: A breakdown of how medals are distributed across various nations.
 
 •	Historical Performance Trends: A time-series analysis of a country’s performance over multiple Paralympic Games.
+![](https://github.com/Marvelous-Ogungbile/Paralympics-Game-Analysis/blob/main/Ranking_Table.png)
+
 
 ## __Geographical Analysis__
 
